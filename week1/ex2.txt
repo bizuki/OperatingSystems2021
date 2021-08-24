@@ -1,0 +1,193 @@
+    1  cmake
+    2  ls
+    3  ./HomeWork_ITP.exe 
+    4  ccmake
+    5  cmake
+    6  makecab.exe 
+    7  cmake
+    8  cmake
+    9  cmake
+   10  cmake --help
+   11  cmake clean
+   12  cmake ./
+   13  cmake ./
+   14  cmake build 
+   15  mkdir build
+   16  cmake build 
+   17  cmake ./
+   18  g++
+   19  cmake make
+   20  mkdir build
+   21  cd build
+   22  cmake ../
+   23  cmake ../
+   24  cmake ../
+   25  cmake ../
+   26  asd
+   27  
+   28  cmake -G "MinGW Makefiles"
+   29  cmake ../ -G "MinGW Makefiles"
+   30  cmake ../ -G "MinGW Makefiles"
+   31  CXX="g++" cmake ../
+   32  cd ,.
+   33  cd ./
+   34  
+   35  cmake -G "CodeBlocks - MinGW Makefiles" C:\Users\Bizuki\CLionProjects\HomeWork_ITP
+   36  cmake -G "CodeBlocks - MinGW Makefiles" C:/Users/Bizuki/CLionProjects/HomeWork_ITP
+   37  cd ./
+   38  cd ../
+   39  cmake -G "CodeBlocks - MinGW Makefiles" C:/Users/Bizuki/CLionProjects/HomeWork_ITP
+   40  ls
+   41  sqlite3
+   42  asd
+   43  
+   44  git clone https://github.com/microsoft/vcpkg
+   45  ls
+   46  ./vcpkg/bootstrap-vcpkg.sh
+   47  ./vcpkg/bootstrap-vcpkg.sh
+   48  ./vcpkg/bootstrap-vcpkg.bat
+   49  ./vcpkg/vcpkg.exe install catch2
+   50  ./vcpkg/vcpkg.exe install catch2
+   51  ./vcpkg/vcpkg.exe install catch2
+   52  ./vcpkg/vcpkg.exe install catch2
+   53  ./vcpkg/vcpkg.exe 
+   54  ./vcpkg/vcpkg.exe instsall catch2
+   55  ./vcpkg/vcpkg.exe install catch2
+   56  ./vcpkg/vcpkg.exe
+   57  ./vcpkg/vcpkg.exe integrate install
+   58  ./vcpkg/vcpkg.exe install catch2
+   59  ./vcpkg/vcpkg.exe install catch2
+   60  ./vcpkg/vcpkg.exe install catch2
+   61  ./vcpkg/vcpkg.exe install sqlit3
+   62  ./vcpkg/vcpkg.exe install sqlite3
+   63  cmake
+   64  cmake CMakeLists.txt 
+   65  vcpkg.exe search
+   66  vcpkg.exe search sqlite3
+   67  vcpkg.exe install sqlite3
+   68  vcpkg.exe install soci
+   69  cmake CMakeLists.txt 
+   70  vcpkg.exe integrate install
+   71  cmake CMakeLists.txt 
+   72  cmake CMakeLists.txt 
+   73  cmake CMakeLists.txt 
+   74  python
+   75  python
+   76  python
+   77  python3
+   78  #!/usr/bin/env bash
+   79  java -jar fabric-server-launch.jar
+   80  #!/usr/bin/env bash
+   81  java -jar fabric-server-launch.jar
+   82  #!/usr/bin/env bash
+   83  java -jar fabric-server-launch.jar
+   84  #!/usr/bin/env bash
+   85  java -jar fabric-server-launch.jar
+   86  #!/usr/bin/env bash
+   87  java -jar fabric-server-launch.jar
+   88  ls
+   89  #!/usr/bin/env bash
+   90  java -jar fabric-server-launch.jar
+   91  #!/usr/bin/env bash
+   92  java -jar fabric-server-launch.jar --nogui
+   93  scp.exe server.7z bizuki@193.32.218.69
+   94  scshexe bizuki@193.32.218.69
+   95  ssh.exe bizuki@193.32.218.69
+   96  #!/bin/sh
+   97  # Read the settings.
+   98  . ./settings.sh
+   99  # Start the server.
+  100  start_server() {     java -server -Xms${MIN_RAM} -Xmx${MAX_RAM} ${JAVA_PARAMETERS} -jar ${SERVER_JAR} nogui; }
+  101  echo "Starting Sky Factory 4 Server..."
+  102  start_server
+  103  ./java.exe
+  104  ./java.exe -version
+  105  ./ServerStart.sh 
+  106  java -version 
+  107  java8
+  108   ~/Desktop/openlogic-openjdk-jre-8u262-b10-win-64/bin/java.exe 
+  109  ./ServerStart.sh 
+  110  ./ServerStart.sh 
+  111  ./ServerStart.sh 
+  112  git@github.com:bizuki/OperatingSystems2021.git
+  113  ssh git@github.com:bizuki/OperatingSystems2021.git
+  114  cd ~
+  115  git -h
+  116  git fetch -h
+  117  git fetch https://github.com/bizuki/OperatingSystems2021.git
+  118  git init
+  119  git fetch https://github.com/bizuki/OperatingSystems2021.git
+  120  echo "# OperatingSystems2021" >> README.md
+  121  ls
+  122  ls
+  123  mkdir OS
+  124  cd OS/
+  125  ls
+  126  git init
+  127  echo "# OperatingSystems2021" >> README.md
+  128  ls
+  129  git add README.md
+  130  git commit -m "first commit"
+  131  git branch -M main
+  132  git remote add origin https://github.com/bizuki/OperatingSystems2021.git
+  133  git push -u origin main
+  134  git push -u origin main
+  135  git -u
+  136  git -h
+  137  git --help
+  138  git clone -h
+  139  git clone https://github.com/bizuki/OperatingSystems2021.git
+  140  ls
+  141  cd OperatingSystems2021/
+  142  ls
+  143  git --help
+  144  git init
+  145  ls
+  146  ls
+  147  mkdir week1
+  148  git add week1/
+  149  git push -h
+  150  git push 
+  151  cd ..
+  152  cd..
+  153  cd ..
+  154  rm -rf .git
+  155  git clone https://github.com/bizuki/OperatingSystems2021.git
+  156  cd OperatingSystems2021/
+  157  ls
+  158  mkdir week1
+  159  ls
+  160  git add week1/
+  161  git commit -m "create dir for first week"
+  162  ls
+  163  git branch -M main
+  164  git init
+  165  git commit -m "create dir for first week"
+  166  cd week1/
+  167  cd -h
+  168  man cd
+  169  man -h
+  170  cd --help
+  171  ls --help
+  172  ls /usr/bin/
+  173  ls /usr/bin/ -r > ex1.txt
+  174  ls /usr/bin/ -r > grep gcc > ex1.txt
+  175  grep -h
+  176  grep --help
+  177* grep gcc -
+  178  ls /usr/bin/ -r > grep gcc - > ex1.txt
+  179  ls /usr/bin/ -r  grep gcc - > ex1.txt
+  180  ls /usr/bin/ -r | grep gcc - > ex1.txt
+  181* ls /usr/bin/ -r 
+  182  ls /usr/bin/ -r | grep gcc > ex1.txt
+  183  ls /usr/bin/ -r | grep gcc > ex1.txt
+  184  ls /usr/bin/ | grep gcc > ex1.txt
+  185  ls /usr/bin/ -r | grep gcc > ex1.txt
+  186  ls /usr/bin
+  187  ls /usr/bin/ -r | grep new > ex1.txt
+  188  ls /usr/bin/ -r | grep git > ex1.txt
+  189  ls /usr/bin/ -r | grep gcc > ex1.txt
+  190  git add ex1.txt 
+  191  git commit -m "create dir for first week"
+  192  git push
+  193  history > ex2.txt
