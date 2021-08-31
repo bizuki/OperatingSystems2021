@@ -9,5 +9,4 @@ int main (void) {
     printf("integer: size = %lu, value = %d\n", sizeof a, a);
     printf("float: size = %lu, value = %f\n", sizeof b, b);
     printf("double: size = %lu, value = %lf\n", sizeof c, c);
-
 }
