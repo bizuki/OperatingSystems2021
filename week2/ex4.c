@@ -6,7 +6,6 @@ void swap(int *a, int *b) {
     *b = tmp;
 }
 
-
 int main (void) {
     printf("Please input 2 integers\n");
     fflush(stdout);
