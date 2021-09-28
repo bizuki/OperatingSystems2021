@@ -1,0 +1,8 @@
+n = 7
+arrival_time = 0, run_time = 2
+arrival_time = 1, run_time = 1
+arrival_time = 3, run_time = 3
+arrival_time = 0, run_time = 1
+arrival_time = 2, run_time = 5
+arrival_time = 13, run_time = 3
+arrival_time = 13, run_time = 1
