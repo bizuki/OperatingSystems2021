@@ -8,7 +8,6 @@ int buffer_pos = 0;
 const int buffer_size = 10;
 int buffer[10];
 
-
 void* producer(void* arg) {
     while (1) {
         while (buffer_size <= buffer_pos) { // buffer is full

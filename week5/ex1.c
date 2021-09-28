@@ -7,6 +7,7 @@
 void print_thread_id(pthread_t *id) {
     printf("Hello from thread with id=%lu\n", *id);
 }
+
 /*
 In this version we got results in random order:
     Created thread with id=139622331590208

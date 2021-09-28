@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if test -f "ex2.txt"; then 
     rm ex2.txt
 fi
