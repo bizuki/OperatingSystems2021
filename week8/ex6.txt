@@ -1,0 +1,7 @@
+Page size = 8KB -> number of addresses = 2^3 * 2^10 = 2^13
+
+We have 16 bit virtual addresses, so we can possibly have 2^16 different addresses. 
+
+So number needed of entries = 2^16/2^13 = 8
+
+ans - 8
