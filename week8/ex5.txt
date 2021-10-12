@@ -1,0 +1,12 @@
+Physical address:
+It is a address pointing to some area of physical memory. 
+Physical memory is memory that we can "touch" in real life like hdd, ssd, ram, etc. As it exists in real life the size of such memory is limited 
+Every drive have it's own physical memory with own addresses, so if we can look to computer physical memory it is consists of several islands (drives)
+
+Virtual address:
+Virtual address points only to area of virtual memory. Every area of virtual memory is pointing to some area of physical memory and can point to any of them at the same time.
+It is pretty silly example but anyway:
+Imagine we have virtual memory that is consists from 3 parts (pages). First and second page can point to RAM, but third page will point to hdd, as
+we don't have enough memory in RAM.
+I think virtual memory is pretty good interface for managing memory because otherwise, higher-level programms would have hard time managing physical memory.
+So we can call it usefull interface for memory. (i believe)
