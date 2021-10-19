@@ -1,0 +1,22 @@
+hit/miss ratio -> h/m ratio
+
+High h/m ratio:
+Page frames = 4
+1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 1 1 2 3
+hit = 16
+miss = 4
+h/m ration = 4
+
+Low h/m ratio:
+Page frames = 4
+1 2 3 4 5 1 2 3 4 5 1 2 3 4 5
+hit = 0
+miss = 15
+h/m ratio = 0
+
+Ageing algorithm is replacing page unused for longest time, when there is no empty page frame availible and miss occured.
+So best case is when we only loading paging for first time and after we requesting just them. In general case h/m ratio will occur when same pages
+requested on short intervals of time (distance between them is small).
+
+But in the worst case scenario requested page will be always not in page frames and so we will load it instead of some other page, so time between two requested
+pages with same id is big.
