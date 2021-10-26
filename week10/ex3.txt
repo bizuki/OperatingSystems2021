@@ -1,0 +1,7 @@
+-rw-r--r-- 1 bizuki bizuki 0 окт 26 22:01 _ex3.txt
+-rw-r--r-- 1 bizuki bizuki 0 окт 26 22:01 _ex3.txt
+-rwxr--rwx 1 bizuki bizuki 0 окт 26 22:01 _ex3.txt
+-rwxrwxrwx 1 bizuki bizuki 0 окт 26 22:01 _ex3.txt
+660 -> user = (110), group = (110), others = (000) -> user has read and write rights, group the same and others doesnt have any rights
+775 -> user = (111), group = (111), others = (101) -> user has all rights, group the same and others have read and execute rights
+777 -> user = (111), group = (111), others = (111) -> everyone have all rights
