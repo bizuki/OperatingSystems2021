@@ -1,0 +1,11 @@
+Recovery:
+We care about deadlocks only when they occure. After occurance the goal is to break through deadlock by rolling back, killing process and etc.
+1) Killing process: good if deadlocks happen on a rare occasions (killing process).
+2) Rolling back: good if processes don't have big states, but i think is space or time consuming (it depends on the way we choose to save checkpoints)
+Prevention:
+This group of algorithms ensure that one of necessary conditions for deadlock occurance is not holds. 
+Most of this algorithms have poor resource utilization and thus results in reduced throughput
+Avoidance: 
+This strategy searchs for a way to ensure that deadlocks will not happen. All necessary calculations occurs before processes, so avoidance strategy
+have to know about all future processes or make them wait until previous batch of processes finishes.
+It is safe, but processes can wait a long time before execution.
